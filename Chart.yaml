@@ -10,10 +10,10 @@ keywords:
 sources:
   - https://github.com/kubernetes/ingress-nginx
 maintainers:
-  - name: jackzampolin
-    email: jack.zampolin@gmail.com
-  - name: mgoodness
-    email: mgoodness@gmail.com
-  - name: chancez
-    email: chance.zibolski@coreos.com
+  - name: inigo
+    email: iiglesig@everis.com
+  - name: alejandro
+    email: alejandro.torres.miranda@everis.com
+  - name: jesus
+    email: jesus.alberto.sanchez.arrieta@everis.com
 engine: gotpl
